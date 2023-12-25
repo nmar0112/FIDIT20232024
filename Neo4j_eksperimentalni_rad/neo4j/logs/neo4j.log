@@ -1,0 +1,26 @@
+2023-12-25 15:36:37.383+0000 INFO  Logging config in use: Embedded default config 'default-user-logs.xml'
+2023-12-25 15:36:37.391+0000 INFO  Starting...
+2023-12-25 15:36:38.203+0000 INFO  This instance is ServerId{f324dc0d} (f324dc0d-9e1f-43d3-b143-3be07cc9cd86)
+2023-12-25 15:36:38.868+0000 INFO  ======== Neo4j 5.13.0 ========
+2023-12-25 15:36:41.714+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2023-12-25 15:36:42.518+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2023-12-25 15:36:42.520+0000 INFO  Remote interface available at http://localhost:7474/
+2023-12-25 15:36:42.524+0000 INFO  id: 7FCE6BBD512420AB33247ABB104D08CF7F186AD29A06E6F351CCBC2BA9DBAEBC
+2023-12-25 15:36:42.526+0000 INFO  name: system
+2023-12-25 15:36:42.527+0000 INFO  creationDate: 2023-12-25T15:36:39.785Z
+2023-12-25 15:36:42.529+0000 INFO  Started.
+2023-12-25 18:46:29.345+0000 INFO  Neo4j Server shutdown initiated by request
+2023-12-25 18:46:29.378+0000 INFO  Stopping...
+2023-12-25 18:46:34.918+0000 INFO  Stopped.
+2023-12-25 19:19:11.467+0000 INFO  Logging config in use: Embedded default config 'default-user-logs.xml'
+2023-12-25 19:19:11.476+0000 INFO  Starting...
+2023-12-25 19:19:12.453+0000 INFO  This instance is ServerId{f324dc0d} (f324dc0d-9e1f-43d3-b143-3be07cc9cd86)
+2023-12-25 19:19:13.529+0000 INFO  ======== Neo4j 5.13.0 ========
+2023-12-25 19:19:16.400+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2023-12-25 19:19:17.330+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2023-12-25 19:19:17.332+0000 INFO  Remote interface available at http://localhost:7474/
+2023-12-25 19:19:17.338+0000 INFO  id: 7FCE6BBD512420AB33247ABB104D08CF7F186AD29A06E6F351CCBC2BA9DBAEBC
+2023-12-25 19:19:17.340+0000 INFO  name: system
+2023-12-25 19:19:17.342+0000 INFO  creationDate: 2023-12-25T15:36:39.785Z
+2023-12-25 19:19:17.344+0000 INFO  Started.
+2023-12-25 20:34:28.931+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to transmit operation result: Response write failure, reference 25caceac-b3ab-48b1-a2d5-16bd404006e4.
