@@ -4,4 +4,3 @@
 - neo4j
 - apache jmeter
 - benchmarking
-- zaključak
